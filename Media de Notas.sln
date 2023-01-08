@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media de Notas", "Media de Notas.csproj", "{93503906-546D-4830-AD7D-0E4A6D97394B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93503906-546D-4830-AD7D-0E4A6D97394B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93503906-546D-4830-AD7D-0E4A6D97394B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93503906-546D-4830-AD7D-0E4A6D97394B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93503906-546D-4830-AD7D-0E4A6D97394B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F346D98-B2AE-481A-B5C6-9E0D18DC5B2C}
+	EndGlobalSection
+EndGlobal
